@@ -14,7 +14,7 @@
 ---
 
 ## 🛠 Tech Stack
-- **Frontend:** React, HTML, CSS, Tailwind
+- **Frontend:** React, HTML, CSS
 - **Backend:** Node.js, Express
 - **Database:** PostgreSQL, mySQL
 - **Tools:** Git, GitHub, VS Code, Vercel, netfily
