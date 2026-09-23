@@ -17,7 +17,7 @@
 
 ---
 
-## 👋 About Me
+## 🧑‍💻 About Me
 
 I'm **Murad Bzuneh**, a Software Engineering student and **Full-Stack Developer** focused on building modern, practical web applications.
 
