@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Murad Bzuneh
+# Hi, I'm Murad Bzuneh
 
 ### Full-Stack Developer | Software Engineering Student | Cloud & Backend Enthusiast
 
@@ -30,13 +30,13 @@ I enjoy working across the entire development lifecycle:
 
 **Design → Frontend → Backend → Database → Authentication → Docker → Deployment**
 
-- 🔭 Currently building full-stack web applications
-- 🌱 Learning advanced React, backend architecture, database optimization and cloud development
-- 🧠 Interested in scalable systems, APIs, DevOps and cloud technologies
-- 🐳 Working with Docker and containerized development
-- ☁️ Expanding my knowledge of Microsoft Azure and cloud deployment
-- 🤝 Open to collaborating on full-stack and student software projects
-- 💡 Interested in turning real-world problems into useful software
+-  Currently building full-stack web applications
+-  Learning advanced React, backend architecture, database optimization and cloud development
+-  Interested in scalable systems, APIs, DevOps and cloud technologies
+-  Working with Docker and containerized development
+- Expanding my knowledge of Microsoft Azure and cloud deployment
+-  Open to collaborating on full-stack and student software projects
+-  Interested in turning real-world problems into useful software
 - ⚡ Fun fact: I enjoy taking an idea and turning it into a working system
 
 ---
@@ -152,35 +152,5 @@ A responsive fitness tracking application built with modern frontend technologie
 
 ---
 
-## 🧩 What I Can Build
 
-```text
-Frontend Development
-├── React / Next.js
-├── TypeScript
-├── Responsive UI
-└── Tailwind CSS
-
-Backend Development
-├── Node.js / Express
-├── REST APIs
-├── Authentication
-├── Validation
-└── Backend Architecture
-
-Database Development
-├── PostgreSQL
-├── MongoDB
-├── MySQL
-├── Prisma ORM
-└── Database Design
-
-DevOps & Deployment
-├── Docker
-├── Git / GitHub
-├── CI/CD concepts
-├── Vercel / Render
-└── Cloud deployment
-
-Cloud
 └── Microsoft Azure — Currently expanding my skills
