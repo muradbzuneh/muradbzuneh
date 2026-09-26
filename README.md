@@ -26,7 +26,7 @@ I enjoy working across the complete application lifecycle — from designing int
 ```text
 Frontend        → React · Next.js · TypeScript · Tailwind CSS
 Backend         → Node.js · Express · REST APIs
-Database        → PostgreSQL · MongoDB · MySQL · Prisma · Neon
+Database        → PostgreSQL · MongoDB · MySQL · Prisma · Neon, firebase
 DevOps          → Docker · Git · GitHub · CI/CD
-Deployment      → Vercel · Render · Cloud Platforms
+Deployment      → Vercel · Render · Cloud Platforms, railway, netfily
 Cloud            → Microsoft Azure · Cloud Computing
