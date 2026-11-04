@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Murad%20Bzuneh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=58&descSize=18" />
 
-### Building real-world software from idea → code → database → deployment 🚀
+### Building real-world software from idea → code → database → deployment 
 
 <p>
   <a href="https://github.com/muradbzuneh">
